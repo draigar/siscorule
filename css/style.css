@@ -145,7 +145,7 @@ section {
 
 .pagination a:hover {
   text-decoration: none;
-  border-bottom: 2px solid #01f7b6;
+  border-bottom: 2px solid #655ce4;
 }
 
 /* PAGE LOADED */
@@ -191,7 +191,7 @@ section {
   bottom: 0;
   z-index: 11;
   overflow: hidden;
-  background: #01f7b6;
+  background: #655ce4;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   transition: all 0.5s ease;
@@ -281,7 +281,7 @@ section {
   width: 2px;
   height: 22px;
   display: inline-block;
-  background: #01f7b6;
+  background: #655ce4;
   text-indent: -1000px;
   overflow: hidden;
 }
@@ -291,7 +291,7 @@ section {
   width: 100%;
   height: 0;
   position: fixed;
-  background: #01f7b6;
+  background: #655ce4;
   left: 0;
   bottom: 0;
   z-index: 15;
@@ -356,7 +356,7 @@ section {
 }
 
 .equalizer span {
-  background: #01f7b6;
+  background: #655ce4;
   width: 1px;
   height: 1px;
   top: 50%;
@@ -531,7 +531,7 @@ section {
 
 .navigation-menu .inner .menu ul li a:hover {
   padding-bottom: 3px;
-  border-bottom: 5px solid #01f7b6;
+  border-bottom: 5px solid #655ce4;
   text-decoration: none;
 }
 
@@ -558,7 +558,7 @@ section {
 .navigation-menu .inner .menu ul li ul li a:hover {
   padding: 0;
   border-bottom: none;
-  color: #01f7b6;
+  color: #655ce4;
 }
 
 .navigation-menu .inner .menu ul li ul li:hover ul {
@@ -586,7 +586,7 @@ section {
   font-size: 2vw;
   font-family: "Fjalla One", sans-serif;
   text-transform: uppercase;
-  color: #01f7b6;
+  color: #655ce4;
   opacity: 0;
   transition-delay: 0.5s;
   transform: translateY(30px);
@@ -645,7 +645,7 @@ section {
   left: 0;
   width: 100%;
   height: 1px;
-  background: #01f7b6;
+  background: #655ce4;
   z-index: 0;
 }
 
@@ -685,7 +685,7 @@ section {
 
 .hamburger span:after {
   z-index: 2;
-  background: #01f7b6;
+  background: #655ce4;
   transition: all 0.15s linear 0.3s;
 }
 
@@ -1030,7 +1030,7 @@ section {
 .page-header .container p {
   margin-bottom: 0;
   font-family: "Fjalla One", sans-serif;
-  color: #01f7b6;
+  color: #655ce4;
 }
 
 header {
@@ -1537,7 +1537,7 @@ header .sound .equalizer .holder {
   content: "";
   width: 22px;
   height: 1px;
-  background: #01f7b6;
+  background: #655ce4;
   position: absolute;
   top: 10px;
   right: 0;
@@ -1659,7 +1659,7 @@ header .sound .equalizer .holder {
   font-weight: 600;
   color: #fff;
   border-radius: 50%;
-  background: #01f7b6;
+  background: #655ce4;
   position: relative;
   border: 10px solid #e2fdf1;
   margin-top: 50px;
@@ -1755,13 +1755,13 @@ s .process span:before {
 .services-content-block small {
   display: inline-block;
   font-family: "Fjalla One", sans-serif;
-  color: #01f7b6;
+  color: #655ce4;
 }
 
 .services-content-block span {
   width: 50px;
   height: 1px;
-  background: #01f7b6;
+  background: #655ce4;
   display: inline-block;
   margin: 5px 15px;
 }
@@ -1909,7 +1909,7 @@ s .process span:before {
 .works .project-box .content-box .inner h3 span {
   display: block;
   font-size: 8vw;
-  color: #01f7b6;
+  color: #655ce4;
   margin-left: -7vw;
 }
 
@@ -1963,7 +1963,7 @@ s .process span:before {
   font-size: 60px;
   font-weight: 800;
   margin-top: 80px;
-  color: #01f7b6;
+  color: #655ce4;
   text-align: center;
   text-transform: uppercase;
   font-family: "Fjalla One", sans-serif;
@@ -1997,7 +1997,7 @@ s .process span:before {
   display: flex;
   flex-wrap: wrap;
   padding: 150px 0;
-  background: #01f7b6;
+  background: #655ce4;
   position: relative;
 }
 
@@ -2063,7 +2063,7 @@ s .process span:before {
   display: flex;
   flex-wrap: wrap;
   padding: 150px 0;
-  background: #01f7b6;
+  background: #655ce4;
   position: relative;
 }
 
@@ -2385,7 +2385,7 @@ s .process span:before {
 }
 
 .news .post .post-content .inner .post-title a:hover {
-  color: #01f7b6;
+  color: #655ce4;
   text-decoration: none;
 }
 
@@ -2419,7 +2419,7 @@ s .process span:before {
   display: block;
   padding: 40px;
   margin-bottom: 40px;
-  background: #01f7b6;
+  background: #655ce4;
   font-family: "Fjalla One", sans-serif;
   position: relative;
 }
@@ -2562,7 +2562,7 @@ s .process span:before {
   font-size: 14px;
   font-weight: 600;
   color: #0e0e0e;
-  background: #01f7b6;
+  background: #655ce4;
   border: none;
 }
 
@@ -2698,7 +2698,7 @@ s .process span:before {
   font-size: 3vw;
   font-weight: 800;
   margin-bottom: 0;
-  color: #01f7b6;
+  color: #655ce4;
 }
 
 .footer .footer-contact {
@@ -2727,7 +2727,7 @@ s .process span:before {
   margin-bottom: 10px;
   font-family: "Fjalla One", sans-serif;
   text-transform: uppercase;
-  color: #01f7b6;
+  color: #655ce4;
 }
 
 .footer .footer-bottom ul {
